@@ -7,6 +7,8 @@ public class Principal1 {
 		System.out.println("Hola mundo");
 		
 		System.out.println("Hola esto es muy difícil");
+		
+		System.out.println("Esto es bastante raro");
 
 	}
 
